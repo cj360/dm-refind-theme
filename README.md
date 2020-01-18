@@ -7,12 +7,7 @@ Nametagged background located in /originals, make your changes and save as backg
 Screendump
 ----
 **Clean**
-![dream-machine-theme](https://raw.githubusercontent.com/Lindstream/dm-refind-theme/master/screenshot.jpg)
-
-
-**Nametag**
-![dream-machine-theme](https://raw.githubusercontent.com/Lindstream/dm-refind-theme/master/screenshot_nametag.jpg)
-
+![dream-machine-theme](https://raw.githubusercontent.com/cj360/dm-refind-theme/master/screenshot_001.bmp)
 
 Installation
 ----
@@ -34,8 +29,7 @@ Attributions
 
 **Font:** Coding Font Tobi
 
-**Icons:** [Lightness for burg][icons] by [SWOriginal][icon-author].
+**Icons:** refind-theme-regular by [Munlik][icon-author].
 
-[icons]: http://sworiginal.deviantart.com/art/Lightness-for-burg-181461810
-[icon-author]: http://sworiginal.deviantart.com/
+[icon-author]: https://github.com/munlik
 [refurl]: http://www.rodsbooks.com/refind/
